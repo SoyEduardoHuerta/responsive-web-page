@@ -28,10 +28,10 @@ This project was developed as part of my learning process in web development and
 
 Tutorial followed:
 
-[Add tutorial link here]
+https://www.youtube.com/watch?v=6fqxL6dhHiI 
 
 This project was created for learning purposes.
 
 ## Author
 
-Eduardo Javier Huerta Aguilar
+Eduardo Huerta
